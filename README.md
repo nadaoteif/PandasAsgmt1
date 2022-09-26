@@ -5,7 +5,7 @@
 This tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) as a part of BigData & AI Bootcamp in 2022.
 
 
-## Description:
+## Tasks:
 
 ### Explore [UCI Repository](https://archive.ics.uci.edu/ml/datasets.php) and Load datasets.
 
