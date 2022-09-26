@@ -1,8 +1,5 @@
 # PandasAsgmt1
 
-
-# Robot Operating System (ROS) installation and configuration
-
 ## Overview:
 
 This tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) as a part of BigData & AI Bootcamp in 2022.
